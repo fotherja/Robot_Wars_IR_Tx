@@ -1,2 +1,3 @@
 # Robot_Wars_IR_Tx
-Transmit Code and example code for IR transmission
+
+This Arduino code simply demos the use of the IR transmit function. The transmit function is self explainatory, it transmits data using manchester encoding etc as expected by this repositories brother "Robot_Wars_IR_Rx"
